@@ -1,0 +1,22 @@
+1.0.1 Final Version 
+Student Name : Biplab Shah
+Student Number : np03cs4a220517
+Binary value of: 11111011
+Hex Answer: 000000000000  FB  Wrong
+Octal Answer: 353  373  Wrong
+Decimal Answer: 251  -5  Wrong
+Hex value of: A3
+Binary Answer: 10100011  10100011  Correct
+Octal Answer: 000  243  Wrong
+Decimal Answer: 93  -93  Wrong
+Octal value of: 243
+Binary Answer: 11110011  10100011  Wrong
+Hex Answer: 000000000000  A3  Wrong
+Decimal Answer: -13  -93  Wrong
+Decimal value of: -40
+Binary Answer: 11101000  11011000  Wrong
+Hex Answer: 0000  D8  Wrong
+Octal Answer: NoValue  330  Wrong
+
+1   Correct Out of 12
+#S7
